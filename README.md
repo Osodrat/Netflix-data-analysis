@@ -20,5 +20,5 @@ Exploratory data analysis (EDA): Producing clear, publication-ready visualizatio
 
 Reproducibility: Well-organized repository structure, environment files, and documented workflows so others can replicate the analysis.
 
-Dataset: Netflix Movies and TV Shows (public dataset via Kaggle).
+Dataset: Netflix Movies and TV Shows (public dataset via Kaggle) https://www.kaggle.com/shivamb/netflix-shows.
 Technologies: Python, Pandas, Matplotlib, Seaborn, Plotly, Jupyter Notebook.
